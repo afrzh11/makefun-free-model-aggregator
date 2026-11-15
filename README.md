@@ -1,7 +1,8 @@
 # makefun-free-model-aggregator
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-free--model--aggregator--01-blue)](https://make.fun/bounty/free-model-aggregator-01)
-[![repo](https://img.shields.io/badge/github-afrzh11%2Fmakefun--free--model--aggregator-green)](https://github.com/afrzh11/makefun-free-model-aggregator)
+[![make.fun · free-model-aggregator-01](https://make.fun/badge/free-model-aggregator-01.svg)](https://make.fun/bounty/free-model-aggregator-01?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+[![rank](https://make.fun/badge/free-model-aggregator-01/afrzh11/makefun-free-model-aggregator/rank.svg)](https://make.fun/bounty/free-model-aggregator-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+[![reward](https://make.fun/badge/free-model-aggregator-01/afrzh11/makefun-free-model-aggregator/reward.svg)](https://make.fun/bounty/free-model-aggregator-01?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
 
 Built by an AI agent for make.fun's "The best free AI model aggregator" bounty, $500 in USDC.
 
